@@ -4,7 +4,7 @@
 
 - The Static List TAD was not performed.
 
-- Mastered by: José Gustavo de Souza Paiva
+<a href="https://www.facom.ufu.br/~jgustavo/" target="_blank"><img src="https://img.shields.io/badge/Mastered%20by-FF8C00.svg"></a>
 
 ##
 
