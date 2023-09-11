@@ -1,6 +1,6 @@
 ## Informations
 
-- In this repository you will find some TADs that were made to do exercises for the subject Algorithms and Data Structures 1 during the second period of college (2022-2). All the exercises were done by Arthur Alves Assunção using the C development language.
+- In this repository you will find some TADs that were made to do exercises for the subject "Algorithms and Data Structures 1", which I took in my second term at university (2022-2). All the exercises were done by Arthur Alves Assunção using the C development language.
 
 - The Static List TAD was not performed.
 
